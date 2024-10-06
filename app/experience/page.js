@@ -2,6 +2,7 @@ import React from 'react'
 import { FaGithub } from 'react-icons/fa'
 
 
+
 const ExperienceItem = ({ title, company, date, description }) => (
   <div className="mb-8">
     <h3 className="text-xl font-bold font-sans">{title}</h3>

@@ -11,8 +11,8 @@ const lato = Lato({
 });
 
 export const metadata = {
-  title: "Elyas Belkhir - Designer & Developer",
-  description: "Portfolio of Elyas Belkhir, Designer & Developer",
+  title: "Home - Elyas B",
+  description: "Portfolio of Elyas Belkhir, Developer",
 };
 
 export default function RootLayout({ children }) {
